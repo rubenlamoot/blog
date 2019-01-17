@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "title":"Titel 1",
+    "shortDes":"Korte beschrijving van artikel 1",
+    "image":"http://lorempixel.com/640/480/people",
+    "description":"Hier komt de tekst van het blog-artikel in. Dus dit is de tekst van artikel 1",
+    "author":"Auteur 1",
+    "date":"17/01/2019"
+  },
+  {
+    "id":2,
+    "title":"Titel 2",
+    "shortDes":"Korte beschrijving van artikel 2",
+    "image":"http://lorempixel.com/640/480/nature",
+    "description":"Hier komt de tekst van het blog-artikel in. Dus dit is de tekst van artikel 2",
+    "author":"Auteur 2",
+    "date":"17/01/2019"
+  },
+  {
+    "id":3,
+    "title":"Titel 3",
+    "shortDes":"Korte beschrijving van artikel 3",
+    "image":"http://lorempixel.com/640/480/technics",
+    "description":"Hier komt de tekst van het blog-artikel in. Dus dit is de tekst van artikel 3",
+    "author":"Auteur 3",
+    "date":"17/01/2019"
+  },
+  {
+    "id":4,
+    "title":"Titel 4",
+    "shortDes":"Korte beschrijving van artikel 4",
+    "image":"http://lorempixel.com/640/480/sports",
+    "description":"Hier komt de tekst van het blog-artikel in. Dus dit is de tekst van artikel 4",
+    "author":"Auteur 4",
+    "date":"17/01/2019"
+  }
+]
