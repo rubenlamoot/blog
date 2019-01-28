@@ -12,20 +12,19 @@
                  </div>
             </div>
         </div>
-        <button class="btn btn-primary">Voeg een artikel toe</button>
+        <router-link class="link btn btn-primary" to="/new">Voeg een artikel toe</router-link>
     </div>
 </template>
 
 <script>
+
     import articles from '../articles.json'
 
-
     export default {
-
         data(){
             return{
                 articles
             }
         },
-    }
+     }
 </script>
