@@ -1,5 +1,5 @@
 <template>
-
+    <!--de pagina om een nieuw blogartikel aan te maken, deze werkt niet-->
     <div class="container">
         <div class="row">
             <div class="col">
@@ -27,7 +27,7 @@
                     </div>
                     <button type="submit" class="btn btn-primary mr-5">Opslaan</button>
                     <button type="button" class="btn btn-secondary" @click="reset">Wissen</button>
-                    <button type="button" class="btn btn-secondary float-right">Sluiten</button>
+                    <router-link type="button" to="/blog" class="btn btn-secondary float-right">Sluiten</router-link>
                 </form>
             </div>
         </div>

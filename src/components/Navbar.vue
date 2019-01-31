@@ -11,6 +11,7 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
+                    <!--link naar de pagina Blog.vue-->
                     <router-link class="nav-link" to="/blog">Blog</router-link>
                 </li>
             </ul>
